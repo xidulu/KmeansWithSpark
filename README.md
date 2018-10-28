@@ -1,0 +1,1 @@
+Implementation of K-means with Spark. (Initialization by random selecting points)
